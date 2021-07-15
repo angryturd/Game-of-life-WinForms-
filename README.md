@@ -4,7 +4,7 @@ This is a Conway's Game of Life spinoff made in Windows Forms (a horrible choice
 Anyone is free to take the source code (if I ever publish it) and make it their own.
 
 GET STARTED:
-Download the zip, unzip it, launch the .exe
+Download ppfor.zip, unzip it, launch the .exe
 
 If you need to download a .NET file, do it— it just helps the computer read the code, thus run the game.
 
